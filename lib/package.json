@@ -1,6 +1,6 @@
 {
   "name": "@dokoo/v-form-builder",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "src/index.js",
   "author": "Mathieu Marteau",
   "license": "MIT",
